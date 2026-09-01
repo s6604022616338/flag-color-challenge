@@ -1,0 +1,6 @@
+{
+  "name": "Flag Color Challenge!",
+  "description": "เกมทายสีธงชาติแบบหน้าเดียว ทดสอบความจำและความแม่นยำของสีธงประเทศต่างๆ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
